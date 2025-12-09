@@ -1,1 +1,23 @@
-
+{
+  "name": "Reposart",
+  "version": 1,
+  "sources": [
+    {
+      "id": "anime",
+      "name": "Anime",
+      "icon": "icons/anime.png",
+      "url": "sources/anime.json"
+    },
+    {
+      "id": "novelsite",
+      "name": "NovelSite",
+      "icon": "icons/novel.png",
+      "url": "sources/novelsite.json"
+    }, 
+    {
+      "id": "Manhwa", 
+      "name": "Manhwa", 
+      "icon": "Icons/Manhwa.png", 
+      "url": " Sources/
+  ]
+}
